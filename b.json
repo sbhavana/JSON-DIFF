@@ -1,0 +1,8 @@
+{
+    "name": "John",
+    "age" : 34,
+    "middle": null,
+    "alias": [{ "nick": "jo", "other": false}],
+    "degree": {"grad": true, "phd": ["science", "math"]},
+    "height": [12, 45, 67]
+}
